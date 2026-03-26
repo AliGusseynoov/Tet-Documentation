@@ -1,2 +1,2 @@
 # Test-Documentation
-Test Plan-Test Cases-Test Execution-Test Closure-Test Summary Report
+User Stories and Acceptance Criteries -Test Plan-Test Cases-Checklist-Test Summary Report
