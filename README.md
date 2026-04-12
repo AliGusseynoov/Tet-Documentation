@@ -63,7 +63,7 @@ Bu layihədə aşağıdakı test növlərindən istifadə olunmuşdur:
 
 ##  QA Tester
 
-*Ad:* Leyla Mustafayeva  
+*Ad:* Əli Hüseynov 
 *Rol:* Manual QA Tester  
 
 ---
